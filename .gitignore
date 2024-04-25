@@ -6,3 +6,5 @@
 
 # Ignore Python virtual environment files
 solar/
+
+scripts/__pycache__/
